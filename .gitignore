@@ -2,6 +2,7 @@ cmake-build-debug
 CMakeLists.txt
 main.cpp
 main.c
+main.go
 
 .idea
 
