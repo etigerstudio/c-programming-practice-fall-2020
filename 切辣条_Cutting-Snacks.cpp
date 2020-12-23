@@ -19,7 +19,7 @@
 
 using namespace std;
 
-int n, *nums, bound;
+int n, *nums;
 
 void dfs(int d, int c, int l, int *ls) {
     if (d == n - 1) {
